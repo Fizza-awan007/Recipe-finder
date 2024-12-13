@@ -1,8 +1,12 @@
-# React + Vite
+Recipe Finder 🍴✨
+Recipe Finder is a React-based web application that helps users generate recipe suggestions based on the ingredients they have on hand. This app aims to simplify meal planning and make cooking fun and creative!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+📝 Ingredient Input: Users can add ingredients they have at home to a list.
+🍳 Recipe Suggestions: The app generates recipe ideas based on the provided ingredients.
+🧑‍🍳 Interactive UI: A clean and intuitive interface to make it easy to explore recipes.
+💻 React-Powered: Built using React for a seamless and responsive user experience.
+Tech Stack
+Frontend: React (functional components)
+Styling: CSS
+Logic: JavaScript for dynamic functionality
